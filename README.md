@@ -24,7 +24,7 @@ In Powershell run the following command
 
 pwshpingstack will close after 60 sec
 
-## Finished 
+## Finished:
 
 pwshpingstack test is completed
 
